@@ -1,0 +1,14 @@
+# Executables
+exe/
+
+# VS Code
+.vscode/
+
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# Object files
+*.o
+*.obj
